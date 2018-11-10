@@ -1,2 +1,1 @@
-# otter-installation
-https://github.com/alibaba/otter  installation
+# 修改过的初始化sql脚本
